@@ -1,4 +1,4 @@
-name: Tests
+name: test
 
 on:
   pull_request:
@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   test:
-    name: Run tests
+    name: test
     runs-on: ubuntu-slim
     steps:
       - name: Checkout
