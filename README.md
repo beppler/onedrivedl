@@ -1,6 +1,6 @@
 # onedrivedl
 
-Go utility to download a file from OneDrive using its shared URL.
+An utility to download a file from OneDrive using its shared URL.
 
 ```text
 onedrivedl <share-url> [-o output-file]
